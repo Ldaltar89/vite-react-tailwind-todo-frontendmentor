@@ -1,0 +1,33 @@
+React.js => React es una biblioteca Javascript para crear interfaces de usuario.
+npm => NPM (Node Package Manager) es un gestor de paquetes desarrollado en su totalidad bajo el lenguaje JavaScript.
+
+
+COMANDOS NUEVOS
+windows + . => a colocar emoticones.
+rafc => te genera ya la estrucuta de un componente
+npx create-react-app my-app => asi se crea con react
+code . => asi se abre un proyecto en visualcode
+
+metodos
+*useState()
+*useRef(null)
+*El método trim( ) elimina los espacios en blanco en ambos extremos del string.
+
+pagina para desplegar hostign gratuito para pruebas. => netlify 
+
+CREAR PROYECTO CON VITE Y TAILWIND CSS
+
+npm create vite@latest .
+npm i
+
+canales
+https://bluuweb.dev/
+
+
+GIT SUBIRLO A GITHUB
+-git init
+-git add .
+-git commit -m "dia 1"
+
+ATAJOS
+DOBLE CLICK + CONTROL + ESPACIO => Esto es para importar de forma directa.
